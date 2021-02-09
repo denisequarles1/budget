@@ -5,7 +5,7 @@
 * [Usage](#usage)
 
 ## Description 
-This application allows users to track withdrawals and deposits with or without a data/internet connection so their account balance is accurate whentraveling.\
+This application allows users to track withdrawals and deposits with or without a data/internet connection so their account balance is accurate when traveling.
 
 <br>
 Online Transactions Image: <br>
@@ -14,8 +14,8 @@ Online Transactions Image: <br>
  <br>
  <br>
  Offline Transaction Image: <br>
- <img src="screenshot3.JPG" alt="screenshot"> 
- <img src="screenshot4.JPG" alt="screenshot2"> 
+ <img src="screenshot3.JPG" alt="screenshot3"> 
+ <img src="screenshot4.JPG" alt="screenshot4"> 
   
 <br>
 <br>
