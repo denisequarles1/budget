@@ -10,7 +10,7 @@ This application allows users to track withdrawals and deposits with or without 
 <br>
 Online Transactions Image: <br>
  <img src="screenshot.JPG" alt="screenshot"> 
- <img src="screenshot2.jpg" alt="screenshot2"> 
+ <img src="screenshot2.JPG" alt="screenshot2"> 
  <br>
  <br>
  Offline Transaction Image: <br>
